@@ -1,0 +1,30 @@
+# Compilados Java
+*.class
+/bin/
+/out/
+
+# VS Code
+.vscode/
+.settings/
+*.code-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+
+# Build tools (caso use futuramente)
+target/
+build/
+.gradle/
+.mvn/
+
+# IDEs alternativas (Eclipse, IntelliJ)
+.classpath
+.project
+.idea/
+*.iml
